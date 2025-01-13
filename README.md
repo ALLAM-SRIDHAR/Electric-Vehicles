@@ -14,3 +14,6 @@ Racing barplots using the PlotlyExpress and also Bar_Chart_Race seperately
 ![ev_race_chart](https://github.com/user-attachments/assets/daae4eca-8e5a-4b8b-8b4c-4d0c45bef128)
 
 Note: These are just some samples only, there is lot more content in the ipynb file so please go through it.
+
+## Google collab link
+http://localhost:8890/notebooks/innomatics/ElectricVehicle.ipynb
